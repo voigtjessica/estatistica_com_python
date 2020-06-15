@@ -1,2 +1,3 @@
-# estatistica_com_python
-Métodos de inferência estatística usando python
+# Estatística com python
+
+Fiz alguns nostebooks para realizar testes de hipóteses com python
